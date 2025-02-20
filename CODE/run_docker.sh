@@ -1,0 +1,1 @@
+docker run --publish 3001:3001 comandei
